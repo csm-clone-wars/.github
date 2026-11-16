@@ -1,5 +1,8 @@
 
 ![Banner](https://github.com/csm-clone-wars/.github/blob/main/csm-clone-wars_%20Build%2C%20Learn%2C%20Innovate.png)
+
+---
+
 One of the reasons I like programming is: Its the only field where people say if you make more mistakes you will learn more.
 So,this org is all about building, breaking, fixing, learning, re-implementing from scratch and finally shipping real software!
 
