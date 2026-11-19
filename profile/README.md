@@ -1,5 +1,5 @@
 
-![Banner](https://github.com/csm-clone-wars/.github/blob/main/csm-clone-wars_%20Build%2C%20Learn%2C%20Innovate.png)
+![Banner](https://github.com/csm-clone-wars/.github/blob/main/Neon-Blue-CSM-Clone-Wars-Banner.png)
 
 ---
 
